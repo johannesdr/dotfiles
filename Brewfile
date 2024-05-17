@@ -22,7 +22,7 @@ brew 'mackup'
 # brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'stripe/stripe-cli/stripe'
-brew 'stripe/stripe-mock/stripe-mock'
+# brew 'stripe/stripe-mock/stripe-mock'
 brew 'svn' # Needed to install fonts
 
 # Spatie Medialibrary
@@ -85,6 +85,7 @@ cask 'folx'
 cask 'jetbrains-toolbox'
 cask 'backblaze'
 cask 'dropbox'
+cask 'postman'
 
 # Quicklook
 # cask 'qlmarkdown'
@@ -103,5 +104,5 @@ cask 'font-source-serif-pro'
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
 mas 'NordVPN', id: 905953485
-mas 'Filezilla', id:1298486723
+# mas 'Filezilla', id:1298486723
 mas 'HPSmart', id:1474276998
